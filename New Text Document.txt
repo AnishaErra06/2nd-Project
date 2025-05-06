@@ -4,3 +4,4 @@ Hello from Anisha
 Hi how are you
 Hope you are doing good
 I am from UK
+I am pursuing my Data Analysis course
